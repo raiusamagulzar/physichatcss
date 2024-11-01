@@ -33,3 +33,7 @@ div[class*="scroll"] {
     max-height: inherit;
     overflow: auto !important;
 }
+
+.gap-1 {
+	max-height: 99vh !important;
+}
